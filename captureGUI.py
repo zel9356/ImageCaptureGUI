@@ -5,7 +5,9 @@ UVMSIS to automated
 import tkinter as t
 from tkinter import ttk, scrolledtext, messagebox
 import cv2 as cv
-
+"""
+an edit 
+"""
 """
 Varibales that need to be global
 such as the window
